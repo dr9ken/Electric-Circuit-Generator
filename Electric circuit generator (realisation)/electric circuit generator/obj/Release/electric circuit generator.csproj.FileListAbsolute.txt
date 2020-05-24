@@ -1,0 +1,13 @@
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\electric circuit generator.csprojAssemblyReference.cache
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\electric_circuit_generator.Form1.resources
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\electric_circuit_generator.Properties.Resources.resources
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\electric circuit generator.csproj.GenerateResource.cache
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Release\ECG.exe.config
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Release\ECG.exe.manifest
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Release\ECG.application
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Release\ECG.exe
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Release\ECG.pdb
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\ECG.exe.manifest
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\ECG.application
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\ECG.exe
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Release\ECG.pdb

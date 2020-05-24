@@ -1,0 +1,13 @@
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Debug\electric circuit generator.exe.config
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Debug\electric circuit generator.exe
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Debug\electric circuit generator.pdb
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric circuit generator.csprojAssemblyReference.cache
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric_circuit_generator.Form1.resources
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric_circuit_generator.Properties.Resources.resources
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric circuit generator.csproj.GenerateResource.cache
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric circuit generator.exe
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric circuit generator.pdb
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Debug\electric circuit generator.exe.manifest
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\bin\Debug\electric circuit generator.application
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric circuit generator.exe.manifest
+C:\Users\dr9ke\source\repos\electric circuit generator\electric circuit generator\obj\Debug\electric circuit generator.application
